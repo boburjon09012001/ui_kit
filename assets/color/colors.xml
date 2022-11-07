@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="input">#FAFDFD</color>
+    <color name="background">#F2F5F5</color>
+    <color name="gray">#E1E4E4</color>
+    <color name="gray1">#D2D7D7</color>
+    <color name="gray2">#8FA0A0</color>
+    <color name="gray3">#424F4F</color>
+    <color name="button">#299B9B</color>
+    <color name="main">#336666</color>
+    <color name="primary">#013636</color>
+    <color name="yellow">#BD7F06</color>
+    <color name="red">#D10505</color>
+    <color name="green">#1DBE03</color>
+    <color name="blue">#057CD1</color>
+    <color name="disabled_Gray1">#FFECEFEF</color>
+
+    
+
+</resources>
